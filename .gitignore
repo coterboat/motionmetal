@@ -1,0 +1,7 @@
+# build output (GitHub Actions rebuilds it on every push)
+site/
+.DS_Store
+.claude/
+
+# a separate clone of the GitHub repo; not part of the site
+motionmetal/
